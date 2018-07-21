@@ -4660,3 +4660,39 @@ border-radius: 16px; cursor:pointer; color:#FFF; font-family: 'Roboto Regular'; 
 .text-right {text-align: right; margin-bottom: 10px;}
 
 .full-width {float:left; width: 100%;}
+
+#header{
+background-color:#fafafa!important;
+}
+
+
+#header .links, .wrapper-dropdown-sf {
+background:transparent;
+}
+
+.wrapper-dropdown-sf.active {
+background: #363636;
+}
+
+#prof_name{
+color:#000!important;
+}
+
+.configurewizard a{
+background: url(../images/wizard_icon_cust.png) 10px center #363636  no-repeat!important;
+border-radius:4px;
+}
+
+
+.home_menu .menu-head {
+background: /*url(../images/black-pattren-bg.png) repeat*/ rgba(169,38,38,255)!important;
+}
+
+.imgbrdr {
+background: transparent;
+}
+
+.copytxt{
+display:none;
+}
+
