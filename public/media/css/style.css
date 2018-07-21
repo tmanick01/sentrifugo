@@ -4696,3 +4696,8 @@ background: transparent;
 display:none;
 }
 
+
+a.userprofilepic img {
+border:none!important;
+max-wdith:32px;
+}
